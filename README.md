@@ -1,3 +1,10 @@
+Useful Resources & Links
+Middleware: https://redux.js.org/advanced/middleware/
+
+redux-thunk package: https://github.com/gaearon/redux-thunk
+
+Async Actions: https://redux.js.org/advanced/async-actions
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
